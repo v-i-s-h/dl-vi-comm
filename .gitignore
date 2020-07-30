@@ -1,0 +1,14 @@
+*/out/
+*.pyc
+*.pkl
+*.pdf
+*.png
+*/test/
+.ipynb_checkpoints
+**/models*
+*.txt
+*.sh
+*/temp
+*.eps
+/*test_scripts/
+*.csv
